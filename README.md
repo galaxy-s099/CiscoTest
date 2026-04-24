@@ -1,5 +1,5 @@
 # CiscoTest
-> 帮助后来者少踩坑吧
+> 帮助后来者少踩坑吧（如果有用可以点个star吗谢谢啦^_^）
 ## 选择题部分
 来自这位“MilLoong”开发的浏览器扩展，根据里面的指导安装就行  
 [选择题扩展](https://github.com/MilLoong/netacad-answer-helper)
