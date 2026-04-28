@@ -18,3 +18,4 @@
 [SRWE Final Packet Tracer Assessment](https://www.bilibili.com/video/BV1SXo5BaEGX?t=8.9)  
 参考答案来自  
 [SRWE Final Packet Tracer Assessment](https://itexamanswers.net/srwe-version-7-00-final-pt-skills-assessment-exam-ptsa-answers.html)
+## 新增了思科实验离线版本，此版本仅用于本地测试，并不会获得考试分数（建议在退出考试状态打开，避免冲突）
